@@ -1,2 +1,2 @@
 # plugin-websocket
-Servidor websockets para Osumi Framework basado en Ratchet
+Versión de pruebas para plugin Websocket
